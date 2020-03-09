@@ -1,0 +1,24 @@
+{
+  "name": "aws_sensorlive_satr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiphop7716/AWS_Sensorlive_SATR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiphop7716/AWS_Sensorlive_SATR/issues"
+  },
+  "homepage": "https://github.com/hiphop7716/AWS_Sensorlive_SATR#readme",
+  "dependencies": {
+    "aws-crt": "^1.0.4",
+    "aws-iot-device-sdk-v2": "^1.0.3",
+    "sensor.live-things-registry": "^1.0.5"
+  }
+}
