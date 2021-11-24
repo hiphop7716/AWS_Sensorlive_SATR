@@ -18,7 +18,7 @@
   "homepage": "https://github.com/hiphop7716/AWS_Sensorlive_SATR#readme",
   "dependencies": {
     "aws-crt": "^1.0.4",
-    "aws-iot-device-sdk-v2": "^1.0.3",
+    "aws-iot-device-sdk-v2": "^1.6.0",
     "sensor.live-things-registry": "^1.0.5"
   }
 }
